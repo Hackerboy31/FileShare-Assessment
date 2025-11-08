@@ -42,7 +42,7 @@ async function testReferralSystem() {
       return;
     }
 
-    const referrer = users[0]; // Ansh
+    const referrer = users[0]; // FileShare
     const existingReferred = users[1]; // Shaurya
 
     console.log(`Referrer: ${referrer.name} (${referrer.referralCode})`);

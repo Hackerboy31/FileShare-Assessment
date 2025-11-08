@@ -24,8 +24,8 @@ async function testNewUserReferral() {
 
     console.log('=== TESTING NEW USER WITH REFERRAL ===');
 
-    // Get Ansh's referral code
-    const referrer = await User.findOne({ name: 'Ansh' });
+    // Get FileShare's referral code
+    const referrer = await User.findOne({ name: 'FileShare' });
     if (!referrer) {
       console.log('Referrer not found');
       return;
