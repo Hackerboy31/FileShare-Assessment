@@ -659,16 +659,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Architecture:** Clean Architecture, Feature-based, Centralized routing & API config
 
 ---
-
-## 👤 Author
-
-**Ansh Chaurasiya**
-- GitHub: [@AnshChaurasiya](https://github.com/AnshChaurasiya)
-- Love my work? [BUY ME A COFFEE](https://buymeacoffee.com/anshcode)
----
-
-**Built with ❤️ following clean architecture principles**
-
----
-
-**Happy Coding! 🎉**
